@@ -1,0 +1,25 @@
+2013-12-25 10:10:32,282 INFO  [DefaultSoapUICore] Creating new settings at [C:\Users\mahadev shindhe\soapui-settings.xml]
+2013-12-25 10:10:33,705 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [C:\Users\mahadev shindhe\Desktop\Oracle Service Bus 11g Development Cookbook_code\book-handout\chapter-1\getting-ready\misc\customer-external-webservice\scripts]
+2013-12-25 10:10:33,710 INFO  [DefaultSoapUICore] Adding listeners from [C:\Program Files\SmartBear\SoapUI-Pro-4.6.3\bin\listeners\demo-listeners.xml]
+2013-12-25 10:10:36,461 INFO  [WsdlProject] Loaded project from [file:/C:/Users/mahadev%20shindhe/Desktop/Oracle%20Service%20Bus%2011g%20Development%20Cookbook_code/book-handout/chapter-1/getting-ready/misc/customer-external-webservice/CustomerServiceCRM-soapui-project.xml]
+2013-12-25 10:10:37,351 INFO  [SoapUIProMockServiceRunner] Running MockService [CustomerServiceSOAP MockService] in project [CustomerServiceFromCRM]
+2013-12-25 10:10:37,352 INFO  [SoapUIProMockServiceRunner] Press any key to terminate
+2013-12-25 10:10:37,814 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-Pro-4.6.3/lib/soapui-4.6.3.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2013-12-25 10:10:37,874 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-Pro-4.6.3/lib/soapui-4.6.3.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2013-12-25 10:10:37,878 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-Pro-4.6.3/lib/soapui-4.6.3.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2013-12-25 10:10:37,880 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-Pro-4.6.3/lib/soapui-4.6.3.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2013-12-25 10:10:37,883 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-Pro-4.6.3/lib/soapui-4.6.3.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2013-12-25 10:10:37,886 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-Pro-4.6.3/lib/soapui-4.6.3.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2013-12-25 10:10:37,891 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-Pro-4.6.3/lib/soapui-4.6.3.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2013-12-25 10:10:37,901 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-Pro-4.6.3/lib/soapui-4.6.3.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2013-12-25 10:10:37,907 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-Pro-4.6.3/lib/soapui-4.6.3.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2013-12-25 10:10:37,920 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-Pro-4.6.3/lib/soapui-4.6.3.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2013-12-25 10:10:37,931 INFO  [SchemaUtils] Loading schema types from [file:/C:/workspace/osb-cookbook/trunk/book-handout/chapter-1/getting-ready/misc/customer-external-webservice/CustomerService.wsdl]
+2013-12-25 10:10:37,932 INFO  [SchemaUtils] Getting schema file:/C:/workspace/osb-cookbook/trunk/book-handout/chapter-1/getting-ready/misc/customer-external-webservice/CustomerService.wsdl
+2013-12-25 10:10:38,698 INFO  [WsdlMockRunner] Mounted WSDL for interface [CustomerServiceSOAP] at [/mockCustomerServiceSOAP?WSDL]
+2013-12-25 10:10:38,811 INFO  [jetty] Logging to com.eviware.soapui.support.log.JettyLogger@2e498b1 via com.eviware.soapui.support.log.JettyLogger
+2013-12-25 10:10:38,933 INFO  [jetty] jetty-6.1.26
+2013-12-25 10:10:42,915 INFO  [jetty] Started JettyMockEngine$SoapUIConnector@0.0.0.0:8088
+2013-12-25 10:10:42,916 INFO  [JettyMockEngine] Started mockService [CustomerServiceSOAP MockService] on port [8088] at path [/mockCustomerServiceSOAP]
+2013-12-25 10:10:42,936 INFO  [SoapUIProMockServiceRunner] MockService started on port 8088 at path [/mockCustomerServiceSOAP]
+2013-12-25 10:10:42,938 INFO  [SoapUIProMockServiceRunner] Started 1 runner
